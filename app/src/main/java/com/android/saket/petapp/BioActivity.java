@@ -9,7 +9,7 @@ public class BioActivity extends AppCompatActivity {
     private ImageView petImage;
     private TextView petName;
     private TextView petBio;
-    private Bundle extras;//kjkkkhhh
+    private Bundle extras;//kjkkkhhhgkgfjggjb
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
